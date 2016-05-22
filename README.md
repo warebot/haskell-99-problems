@@ -1,4 +1,4 @@
-# haskell-99-problems
+#### Some solutions to ["Haskell 99 problems"](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
 
 ##### 1
 ```haskell
